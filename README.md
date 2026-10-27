@@ -1,4 +1,4 @@
-# 📱 Tarea02_BLL - Super Mario App
+# 🍄 Super Mario Companion — Android App
 
 Aplicación Android que muestra una lista de personajes del universo de Super Mario Bros, permitiendo ver información detallada de cada uno.
 
@@ -22,7 +22,7 @@ Aplicación Android que muestra una lista de personajes del universo de Super Ma
 
 ## 📂 Estructura del Proyecto
 ```plaintext
-📦 Tarea02_BLL
+📦 Super Mario Companion
  ┣ 📂 app
  ┃ ┣ 📂 src
  ┃ ┃ ┣ 📂 main
